@@ -1,4 +1,4 @@
-package com.driver.encapsulation;
+package com.driver;
 
 public class RWOnly {
     private String name;
